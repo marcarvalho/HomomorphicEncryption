@@ -1,0 +1,529 @@
+Description,Amount
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
+Starbucks,20.2
+D&R,35
+Cafe Nero,15
+Cinemaximum,40
+McDonald's,20
+CarrefourSA,50
+Turkcell,50
+Burger King,20
